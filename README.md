@@ -1,7 +1,9 @@
-🎓 Olá meu nome é <strong>{Kauan}!</strong>
+### Sejam bem-vindos 👋
+
+- 🎓 Olá meu nome é <strong>{Kauan}!</strong> Sou desenvolvedor Front-End, atualmente estou desenvolvendo e criando novos projetos com HTML + CSS + JavasCript e iniciando aprendizado em Node e React
 - 🤔 &nbsp; Explorar novas tecnologias e desenvolver soluções de software.
 - 💻 &nbsp; Aluno no CodeClub.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScripts**.
+
 
 ----
 
