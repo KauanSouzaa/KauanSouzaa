@@ -1,7 +1,7 @@
-🎓 Hello my name is <strong>{Kauan}!</strong>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💻 &nbsp; Student at CodeClub.
-- 🌱 &nbsp; Learning more about **JavaScripts**.
+🎓 Olá meu nome é <strong>{Kauan}!</strong>
+- 🤔 &nbsp; Explorar novas tecnologias e desenvolver soluções de software.
+- 💻 &nbsp; Aluno no CodeClub.
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScripts**.
 
 ----
 
@@ -39,7 +39,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Kauan](https://img.shields.io/badge/-Kauan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-pires-66bb34218/)](https://www.linkedin.com/in/kauan-souza-4aa20821b/)
+[![Linkedin: Kauan](https://img.shields.io/badge/-Kauan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-pires-66bb34218/)](https://www.linkedin.com/in/kauan-pires-de-souza-b4389724a/)
 [![Gmail Badge](https://img.shields.io/badge/-kauansoouza066@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauansoouza066@gmail.com)](mailto:kauansoouza066@gmail.com)
 [![GitHub Kauan]( https://img.shields.io/github/followers/KauanSouzaa?label=follow&style=social)](https://github.com/KauanSouzaa)
 
