@@ -7,7 +7,7 @@
 
 ----
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> 🛠 &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
