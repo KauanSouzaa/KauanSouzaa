@@ -46,5 +46,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-kauansoouza066@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauansoouza066@gmail.com)](mailto:kauansoouza066@gmail.com)
 [![GitHub Kauan]( https://img.shields.io/github/followers/KauanSouzaa?label=follow&style=social)](https://github.com/KauanSouzaa)
 
+![snake gif](https://github.com/KauanSouzaa/KauanSouzaa/blob/output/github-contribution-grid-snake.svg)
 
 
