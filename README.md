@@ -33,7 +33,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSouzaa&show_icons=true&theme=dark&line_height=27" alt="**Kauan** github stats"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KauanSouzaa=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSouzaa&show_icons=true&theme=transparent)
 
 ##
 
