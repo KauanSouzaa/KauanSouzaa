@@ -23,7 +23,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## **GitHub Estatísticas**
+## 📌 **GitHub Estatísticas**
 
 
 <a href="https://github.com/KauanSouzaa">
@@ -31,12 +31,10 @@
 </a>
 
 <a href="https://github.com/KauanSouzaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSouzaa&layout=donut)(https://github.com/KauanSouzaa/github-readme-stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSouzaa&layout=donut)(https://github.com/KauanSouzaa/github-readme-stats,prs&cache_seconds=86400&theme=radical"/>
 </a>
 
-
 ##
-
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
