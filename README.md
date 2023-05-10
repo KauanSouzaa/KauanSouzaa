@@ -25,12 +25,13 @@
 
 ## **GitHub Estatísticas**
 
+
 <a href="https://github.com/KauanSouzaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSouzaa&layout=donut)](https://github.com/KauanSouzaa/github-readme-stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSouzaa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="**Kauan** github stats"/>
 </a>
 
 <a href="https://github.com/KauanSouzaa">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSouzaa&show_icons=true&theme=transparent&line_height=27" alt="**Kauan** github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSouzaa& layout=donut)(https://github.com/KauanSouzaa/github-readme-stats"/>
 </a>
 
 
