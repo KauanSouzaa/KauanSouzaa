@@ -1,6 +1,6 @@
 ### Sejam bem-vindos 👋
 
-- 🎓 Olá meu nome é <strong>{Kauan}!</strong> Sou desenvolvedor Front-End, atualmente estou desenvolvendo e criando novos projetos com HTML + CSS + JavasCript e iniciando aprendizado em Node e React
+- 🎓 Olá meu nome é <strong>{Kauan}!</strong> Sou desenvolvedor Front-End, atualmente estou desenvolvendo e criando novos projetos com HTML + CSS + JavasCript + Node + React
 - 🤔 &nbsp; Explorar novas tecnologias e desenvolver soluções de software.
 - 💻 &nbsp; Aluno no CodeClub.
 
@@ -10,11 +10,12 @@
 <h3> 🛠 &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
-
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+             
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
 
 
 
